@@ -1,5 +1,7 @@
-## JavaScript
-
+<div align='center'>
+ <h1> JavaScript</h1>
+<div>
+ 
  Curso de JavaScript do <a target="_blank" rel="external" href="https://www.youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6"><strong>Hora de Codar</strong></a>
 
 <div>
